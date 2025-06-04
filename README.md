@@ -4,7 +4,7 @@ Analytic Engineer | Data Analyst
 
 ---
 
-Certified Microsoft Data Analytic Engineer  with extensive experience across diverse fields, passionate about data science and data-driven decision-making. I aim to leverage my skills to solve complex challenges and drive innovation.
+Data Lover
 <!--
 **nhatminh46vn/nhatminh46vn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
